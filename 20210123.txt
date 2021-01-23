@@ -1,0 +1,6 @@
+git init
+git status
+git add .
+git commit -m 'V1'
+再次查看状态
+git status
